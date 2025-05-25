@@ -25,7 +25,7 @@
 
 ## 💻 My Tech Stack:
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/9ac32811-8158-4ba8-8937-25709e82b628)
+ <img src=" https://github.com/user-attachments/assets/9ac32811-8158-4ba8-8937-25709e82b628" />
 
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
