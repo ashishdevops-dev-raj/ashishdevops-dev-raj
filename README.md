@@ -74,16 +74,15 @@ Galgotias University, Greater Noida — 2023
 
 ---
 
-<!-- Optional GitHub Stats Section -->
-<!--
+Optional GitHub Stats Section 
+
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=radical)](https://github.com/ashishdevops-dev-raj)
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishdevops-dev-raj&theme=radical)](https://github.com/ashishdevops-dev-raj)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=radical)](https://github.com/ashishdevops-dev-raj)
--->
 
----
+
 
 ## 🔔 Fun Facts
 
