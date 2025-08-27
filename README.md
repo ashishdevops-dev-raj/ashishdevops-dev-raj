@@ -89,11 +89,10 @@ Galgotias University, Greater Noida — *2023*
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=radical" alt="GitHub Stats" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashishdevops-dev-raj&theme=radical" alt="GitHub Streak" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=radical" alt="Top Languages" width="33%" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=radical)](https://github.com/ashishdevops-dev-raj)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishdevops-dev-raj&theme=radical)](https://github.com/ashishdevops-dev-raj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=radical)](https://github.com/ashishdevops-dev-raj)
+
 
 
 
