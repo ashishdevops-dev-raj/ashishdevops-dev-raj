@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashishdevops-dev-raj&style=flat-square&color=blue" />
-</p>
-
----
-
 ## 🛠 Tech Universe
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,git,github,gitlab,jenkins,ansible,terraform,docker,kubernetes,linux,bash,python,prometheus,grafana&theme=dark" />
