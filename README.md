@@ -1,7 +1,8 @@
 # 🚀 Ashish Raj — DevOps Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Automation+%7C+Cloud+%7C+CI%2FCD;Always+Learning+%26+Building+🚀" />
+  <img src="
+   [https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Automation+%7C+Cloud+%7C+CI%2FCD;Always+Learning+%26+Building+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Automation+%7C+Cloud+%7C+CI%2FCD;Always+Learning+%26+Building+%F0%9F%9A%80)" />
 </p>
 
 ---
