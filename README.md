@@ -1,60 +1,75 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ashish+Raj+👋;DevOps+Engineer;Automation+%7C+Cloud+%7C+CI%2FCD;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ashish+Raj+👋;DevOps+Engineer;Automation+%7C+Cloud+%7C+CI%2FCD;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 👨‍💻 About Me
+DevOps Engineer with hands-on experience in CI/CD, Cloud, Automation and Containerization.  
+I love building scalable deployments and automating everything 🚀  
+Focused on reliability, performance, and reducing manual effort through scripting.
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-📧 **ashishrajdevops@gmail.com**  
-<br>
-<a href="https://linkedin.com/in/ashish-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/ashishdevops-dev-raj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+📧 <strong>ashishrajdevops@gmail.com</strong><br><br>
+<a href="https://linkedin.com/in/ashish-raj">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/ashishdevops-dev-raj">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
+<p align="center">
+
 ### 🧑‍💻 Languages & Scripting
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### 🛠 DevOps & CI/CD
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
 
 ### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ### ☁ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
 ### 📊 Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+</p>
+
 ---
 
 ## 🏢 Work Experience  
 **DevOps Engineer — Flipkart (via Futurz Staffing Solutions)**  
 📍 Bangalore | 📆 Aug 2023 – Present
 
-✅ Designed & optimized Jenkins and GitLab CI pipelines, improving deployment reliability & reducing failures by **40%**  
+✅ Designed & optimized **Jenkins & GitLab CI pipelines**, improving deployment reliability and reducing failures by **40%**  
 ✅ Automated deployments & provisioning using **Terraform, Docker, Kubernetes & Ansible**  
 ✅ Managed production workloads on **AWS & Azure**  
-✅ Created Bash/Python automation for backups, health checks & log rotation, reducing manual work by **70%**  
-✅ Strengthened monitoring using **Prometheus & Grafana**, reducing MTTR
+✅ Developed Bash/Python automation for backups, health checks & log rotation, reducing manual work by **70%**  
+✅ Strengthened monitoring using **Prometheus & Grafana**, reducing MTTR  
 
 ---
 
 ## 🗂️ Projects  
 
 ### 🚀 CI/CD Pipeline Automation
-- Built production-grade CI/CD integrating:
+- Production-grade CI/CD integrating:
   **Jenkins, Docker, Kubernetes, Terraform, Helm & Ansible**
 - Zero-downtime deployments  
 - Image optimization (40% smaller)  
@@ -78,7 +93,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashishdevops-dev-raj&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdevops-dev-raj&theme=radical" height="160"/>
 </p>
 
 ---
@@ -91,5 +106,5 @@
 ---
 
 <p align="center">
-💡 *Thanks for visiting! Let's connect 🚀*
+💡 <em>Thanks for visiting! Let's connect 🚀</em>
 </p>
