@@ -21,11 +21,6 @@
 - 💼 **Experience:** 2+ years in DevOps, Cloud Engineering, and Infrastructure Automation
 - 💡 **Interests:** Cloud computing, containerization, monitoring & observability, and automation
 - 📍 **Location:** Bangalore, India
-- 📫 **Contact:** 
-  - 📧 Email: [ashishrajgu0987@gmail.com](mailto:ashishrajgu0987@gmail.com)
-  - 📱 Phone: +91-7277290451
-  - 💼 [LinkedIn](https://www.linkedin.com/in/ashish-raj-5578131b0/)
-  - 💻 [GitHub](https://github.com/ashishdevops-dev-raj)
 
 ---
 
@@ -135,7 +130,7 @@
 ## 🏅 Certifications
 
 - ☁️ **AWS Certified Cloud Practitioner** – 2022  
-  [View Certification](https://www.credly.com/badges) *(Add your certification link)*
+  [View Certification]([https://www.credly.com/badges](https://www.credly.com/badges/7d941a22-b420-4141-9bfe-3f6b7fa82d2d))
 
 ---
 
@@ -145,9 +140,6 @@
   
   <a href="mailto:ashishrajgu0987@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+917277290451">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
   <a href="https://www.linkedin.com/in/ashish-raj-5578131b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
