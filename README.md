@@ -72,11 +72,7 @@
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdevops-dev-raj&theme=tokyonight" height="180"/>
-  
-</div>
+
 
 ---
 
