@@ -55,11 +55,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,gitlab,jenkins,ansible,terraform,docker,kubernetes,linux,bash,python,prometheus,grafana&theme=dark" />
-  
-</div>
 
 ---
 
