@@ -14,19 +14,26 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Cloud infrastructure automation and CI/CD pipeline optimization
+**DevOps Engineer with 2+ years of experience** in CI/CD automation, containerization, cloud deployments, and production operations. Skilled in Jenkins, Docker, Terraform, Bash scripting, and incident handling. Currently working at **Flipkart** as a DevOps Engineer, focusing on automation and cloud-native infrastructure.
+
+- 🔭 **Currently working on:** Cloud infrastructure automation and CI/CD pipeline optimization at Flipkart
 - 🌱 **Learning:** Advanced Kubernetes, Cloud-native architectures, and Infrastructure as Code best practices
 - 💼 **Experience:** 2+ years in DevOps, Cloud Engineering, and Infrastructure Automation
 - 💡 **Interests:** Cloud computing, containerization, monitoring & observability, and automation
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ashish-raj-5578131b0/) | [GitHub](https://github.com/ashishdevops-dev-raj)
+- 📍 **Location:** Bangalore, India
+- 📫 **Contact:** 
+  - 📧 Email: [ashishrajgu0987@gmail.com](mailto:ashishrajgu0987@gmail.com)
+  - 📱 Phone: +91-7277290451
+  - 💼 [LinkedIn](https://www.linkedin.com/in/ashish-raj-5578131b0/)
+  - 💻 [GitHub](https://github.com/ashishdevops-dev-raj)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🚀 DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -93,10 +100,55 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Flipkart — DevOps Engineer
+**Bangalore | Aug 2023 – Present**
+
+- ✅ Designed and optimized Jenkins CI/CD pipelines for multiple production services, **increasing deployment reliability and reducing build failures by 40%**
+- ✅ Containerized applications using Docker and automated deployments, **improving release speed by 60%**
+- ✅ Developed automation scripts in Bash/Python for DB exports, backups, health checks, and log rotation, **reducing manual workload by 70%**
+- ✅ Provided L1/L2 production support, resolving **100+ incidents** and ensuring **98% uptime** across critical applications
+- ✅ Collaborated with Development, QA, and Infra teams to validate releases, perform smoke tests, and manage production rollouts
+
+---
+
+## 🚀 Key Projects
+
+### IFMS, Liqudice, Pacman
+
+- 🎯 Built **end-to-end CI/CD pipelines** for Angular and Spring Boot applications, enabling automated builds and deployments within **2–3 minutes**
+- 🐳 Implemented **multi-stage Docker builds**, reducing image size by **40%** and improving caching efficiency
+- ⚙️ Automated deployment workflows using Jenkins, ensuring **zero-downtime releases**
+- 📦 Designed an optimized image and container management strategy to support uninterrupted deployments and fast rollbacks
+- ⚡ **Reduced overall deployment time by 40%** through caching, build optimization, and streamlined pipeline stages
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering**  
+🏛️ Galgotias University | 2023
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** – 2022  
+  [View Certification](https://www.credly.com/badges) *(Add your certification link)*
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
   
+  <a href="mailto:ashishrajgu0987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+917277290451">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
   <a href="https://www.linkedin.com/in/ashish-raj-5578131b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
