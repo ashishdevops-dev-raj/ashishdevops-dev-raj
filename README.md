@@ -20,7 +20,6 @@
 - 🌱 **Learning:** Advanced Kubernetes, Cloud-native architectures, and Infrastructure as Code best practices
 - 💼 **Experience:** 2+ years in DevOps, Cloud Engineering, and Infrastructure Automation
 - 💡 **Interests:** Cloud computing, containerization, monitoring & observability, and automation
-- 📍 **Location:** Bangalore, India
 
 ---
 
