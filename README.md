@@ -130,7 +130,7 @@
 ## 🏅 Certifications
 
 - ☁️ **AWS Certified Cloud Practitioner** – 2022  
-  [View Certification]([https://www.credly.com/badges](https://www.credly.com/badges/7d941a22-b420-4141-9bfe-3f6b7fa82d2d))
+  [View Certification](https://www.credly.com/badges/7d941a22-b420-4141-9bfe-3f6b7fa82d2d)
 
 ---
 
