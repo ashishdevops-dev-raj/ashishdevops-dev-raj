@@ -92,11 +92,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&no-bg=true&no-frame=false&column=-1" alt="GitHub Trophies" />
-  
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&no-frame=false&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
