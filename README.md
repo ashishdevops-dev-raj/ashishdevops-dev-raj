@@ -92,17 +92,11 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishdevops-dev-raj&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishdevops-dev-raj&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishdevops-dev-raj&theme=github_dark)
 
 ---
 
