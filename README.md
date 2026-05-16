@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:00ff88&height=220&section=header&text=Ashish%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Flipkart&descAlignY=58&descSize=20&descColor=00ff88&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00bfff&height=220&section=header&text=Ashish%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Flipkart&descAlignY=58&descSize=20&descColor=58a6ff&animation=fadeIn" />
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-raj-5578131b0/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://ashishdevops-dev-raj.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishdevops-dev-raj.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishrajgu0987@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS_CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7d941a22-b420-4141-9bfe-3f6b7fa82d2d)
 ![](https://komarev.com/ghpvc/?username=ashishdevops-dev-raj&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
@@ -26,15 +26,12 @@
 
 # 🧑‍💻 About Me
 
-> **"Automate everything. Monitor aggressively. Ship with confidence."**
+DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD pipelines, automating infrastructure, and managing production systems at **Flipkart**.
 
-DevOps & Cloud Engineer with **3+ years of experience** designing and operating large-scale CI/CD systems, cloud infrastructure, and container platforms at **Flipkart** — one of India's largest e-commerce companies.
-
-- 🔭 Currently building **GitOps-driven Kubernetes infrastructure** at Flipkart
-- 🌱 Deep-diving into **Advanced Kubernetes, ArgoCD, and Helm chart authoring**
-- ☁️ Production-grade expertise in **Azure & AWS Cloud**
-- ✍️ Writing about DevOps practices, automation, and cloud-native engineering
-- 🚀 Open to **Senior DevOps / SRE / Platform Engineer** opportunities
+- 🔭 Currently working on **CI/CD pipelines & Kubernetes infrastructure**
+- 🌱 Learning **Advanced Kubernetes, GitOps, ArgoCD**
+- ☁️ Strong in **Azure & AWS Cloud**
+- 🚀 Open to **Senior DevOps / SRE / Cloud Engineer roles**
 
 ---
 
@@ -59,25 +56,23 @@ DevOps & Cloud Engineer with **3+ years of experience** designing and operating 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## ⚙️ CI/CD & GitOps
+## ⚙️ CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ## 🐳 Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-## 📊 Monitoring & Observability
+## 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 💻 Scripting & OS
+## 💻 Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -89,24 +84,9 @@ DevOps & Cloud Engineer with **3+ years of experience** designing and operating 
 
 | Project | Description |
 |---------|-------------|
-| [🔧 Jenkins CI/CD Pipeline](https://github.com/ashishdevops-dev-raj/jenkins) | Production-grade automated Jenkins pipelines |
-| [📚 Shared Libraries](https://github.com/ashishdevops-dev-raj/jenkins-shared-libraries) | Reusable Jenkins Groovy shared libraries |
-| [🌐 DevOps Learning Hub](https://devops-learning-hub.netlify.app/) | Community DevOps knowledge portal |
-
----
-
-# ✍️ Blog & Articles
-
-> Sharing what I learn in the DevOps trenches — pipelines, Kubernetes, cloud infra, and automation.
-
-| Article | Topic |
-|---------|-------|
-| 🔄 **CI/CD Best Practices at Scale** | Jenkins pipelines, shared libraries & governance |
-| 🐳 **Slimming Docker Images by 40%** | Multi-stage builds, layer caching & distroless |
-| ☸️ **Helm Chart Authoring Guide** | Templating, values, hooks & chart testing |
-| 📊 **Grafana Dashboards That Actually Help** | Prometheus queries & alerting that matters |
-
-> 🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/ashish-raj-5578131b0/) for the latest posts.
+| [🔧 Jenkins CI/CD Pipeline](https://github.com/ashishdevops-dev-raj/jenkins) | Automated Jenkins pipelines |
+| [📚 Shared Libraries](https://github.com/ashishdevops-dev-raj/jenkins-shared-libraries) | Reusable Jenkins Groovy libraries |
+| [🌐 DevOps Learning Hub](https://devops-learning-hub.netlify.app/) | DevOps knowledge portal |
 
 ---
 
@@ -134,7 +114,7 @@ DevOps & Cloud Engineer with **3+ years of experience** designing and operating 
 
 # 🎓 Education & Certification
 
-- 🎓 **B.Tech — Computer Science**
+- 🎓 **B.Tech — Computer Science**  
   Galgotias University (2023)
 
 - ☁️ **AWS Certified Cloud Practitioner**
@@ -146,8 +126,8 @@ DevOps & Cloud Engineer with **3+ years of experience** designing and operating 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-raj-5578131b0/)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishrajgu0987@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://ashishdevops-dev-raj.github.io/Portfolio/)
 
 </div>
 
@@ -155,7 +135,7 @@ DevOps & Cloud Engineer with **3+ years of experience** designing and operating 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a2e1a,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:1a3a5c,100:0d1117&height=120&section=footer"/>
 
 ### ⚡ Automating • Deploying • Monitoring • Scaling
 
