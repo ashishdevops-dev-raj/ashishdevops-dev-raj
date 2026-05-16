@@ -90,19 +90,23 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishdevops-dev-raj&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishdevops-dev-raj&theme=github_dark" width="48%" />
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishdevops-dev-raj&theme=github_dark" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdevops-dev-raj&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishdevops-dev-raj&theme=github_dark" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishdevops-dev-raj&theme=github_dark&utcOffset=5.5" width="48%" />
 
 </div>
 
