@@ -42,7 +42,7 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 | 🚀 Deployment Speed | Reduced deployment time by **40%** |
 | 🐳 Docker Optimization | Reduced image size by **40%** |
 | ⚡ Release Automation | Automated deployments in **2–3 mins** |
-| 🛡️ Uptime | Maintained **98% production uptime** |
+| 🛡️ Uptime | Maintained **99.9% production uptime** |
 | 🤖 Automation | Reduced manual effort by **70%** |
 
 ---
@@ -56,9 +56,10 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## ⚙️ CI/CD
+## ⚙️ CI/CD & GitOps
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-FF7C00?style=for-the-badge&logo=argocd&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
@@ -90,29 +91,20 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&column=3" alt="GitHub Trophies" height="165" />
 </p>
 
 ---
-
 
 ## 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishdevops-dev-raj&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishdevops-dev-raj&theme=radical" width="100%" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&column=3" />
-</p>
-
 
 ---
 
@@ -122,18 +114,6 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
   Galgotias University (2023)
 
 - ☁️ **AWS Certified Cloud Practitioner**
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-raj-5578131b0/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishrajgu0987@gmail.com)
-
-</div>
 
 ---
 
