@@ -29,8 +29,8 @@
 DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD pipelines, automating infrastructure, and managing production systems at **Flipkart**.
 
 - 🔭 Currently working on **CI/CD pipelines & Kubernetes infrastructure**
-- 🌱 Learning **Advanced Kubernetes, GitOps, ArgoCD**
-- ☁️ Strong in **Azure & AWS Cloud**
+- 🌱 Mastering **Advanced Kubernetes, GitOps, and ArgoCD workflows**
+- ☁️ Strong expertise in **Azure & AWS Cloud Ecosystems**
 - 🚀 Open to **Senior DevOps / SRE / Cloud Engineer roles**
 
 ---
@@ -40,41 +40,36 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 | Metric | Achievement |
 |--------|-------------|
 | 🚀 Deployment Speed | Reduced deployment time by **40%** |
-| 🐳 Docker Optimization | Reduced image size by **40%** |
-| ⚡ Release Automation | Automated deployments in **2–3 mins** |
-| 🛡️ Uptime | Maintained **99.9% production uptime** |
-| 🤖 Automation | Reduced manual effort by **70%** |
+| 🐳 Docker Optimization | Reduced production image size by **40%** |
+| ⚡ Release Automation | Automated deployments end-to-end within **2–3 mins** |
+| 🛡️ High Availability | Maintained **99.9% production uptime** |
+| 🤖 Automation | Reduced manual operations and engineering effort by **70%** |
 
 ---
 
 # 🛠️ Tech Stack
 
 ## ☁️ Cloud & Infrastructure
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## ⚙️ CI/CD & GitOps
-
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-FF7C00?style=for-the-badge&logo=argocd&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🐳 Containers & Orchestration
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 Monitoring
-
+## 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 💻 Scripting
-
+## 💻 Scripting & OS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -83,11 +78,26 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [🔧 Jenkins CI/CD Pipeline](https://github.com/ashishdevops-dev-raj/jenkins) | Automated Jenkins pipelines |
-| [📚 Shared Libraries](https://github.com/ashishdevops-dev-raj/jenkins-shared-libraries) | Reusable Jenkins Groovy libraries |
-| [🌐 DevOps Learning Hub](https://devops-learning-hub.netlify.app/) | DevOps knowledge portal |
+### 🛠️ [Jenkins Shared Libraries Architecture](https://github.com/ashishdevops-dev-raj/jenkins-shared-libraries)
+> **Tech Stack:** Groovy, Jenkins, Docker, SonarQube, Slack API
+* Standardized enterprise-grade CI/CD pipelines by creating reusable, modular Groovy scripts.
+* Implemented automated quality gates (SonarQube), vulnerability scanning, and dynamic Slack notifications.
+* **Impact:** Reduced pipeline boilerplate code by **60%** across multiple application repositories.
+
+<br/>
+
+### 🔄 [Enterprise GitOps & Infrastructure as Code](https://github.com/ashishdevops-dev-raj/jenkins)
+> **Tech Stack:** Terraform, AWS/Azure, Kubernetes, ArgoCD, Helm
+* Architected highly available cloud infrastructure using declarative, reusable Terraform modules.
+* Established a true GitOps delivery model using **ArgoCD**, syncing state definitions from Git directly to EKS/AKS clusters.
+* Implemented zero-downtime rolling updates using Helm chart versioning and strategy configurations.
+
+<br/>
+
+### 🌐 [DevOps Learning Hub & Portal](https://devops-learning-hub.netlify.app/)
+> **Tech Stack:** Markdown, Netlify, Frontend Architecture, Documentation
+* A centralized knowledge base mapping out production architectures, deep-dives into Kubernetes debugging, and cloud optimization strategies.
+* Curated reference guides used by junior engineers to accelerate onboarding and cloud certification paths.
 
 ---
 
@@ -110,8 +120,7 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 # 🎓 Education & Certification
 
-- 🎓 **B.Tech — Computer Science**  
-  Galgotias University (2023)
+- 🎓 **B.Tech — Computer Science** Galgotias University (2023)
 
 - ☁️ **AWS Certified Cloud Practitioner**
 
