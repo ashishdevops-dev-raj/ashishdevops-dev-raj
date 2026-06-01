@@ -103,10 +103,18 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=radical" alt="GitHub Streak" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&column=3" alt="GitHub Trophies" height="165" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=radical" alt="GitHub Streak" height="175" />
+      </td>
+      <td valign="top" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ashishdevops-dev-raj&theme=radical&margin-w=15" alt="GitHub Trophies" height="175" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
