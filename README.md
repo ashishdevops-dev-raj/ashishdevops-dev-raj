@@ -100,14 +100,13 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
 * Curated reference guides used by junior engineers to accelerate onboarding and cloud certification paths.
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ashishdevops-dev-raj&show_icons=true&theme=radical&hide_border=true" alt="Ashish's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdevops-dev-raj&layout=compact&theme=radical&hide_border=true" alt="Ashish's Top Languages" height="175" />
       </td>
       <td valign="top" align="center">
         <img src="https://streak-stats.demolab.com?user=ashishdevops-dev-raj&theme=radical&hide_border=true" alt="GitHub Streak" height="175" />
@@ -115,7 +114,6 @@ DevOps & Cloud Engineer with **3+ years of experience** building scalable CI/CD 
     </tr>
   </table>
 </div>
-
 ---
 
 ## 📅 GitHub Contribution Graph
